@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 2,
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 3,
+    "shopId": 3,
+    "brandId": 4,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 4,
+    "shopId": 1,
+    "brandId": 3,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 5,
+    "shopId": 4,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 6,
+    "shopId": 5,
+    "brandId": 1,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 7,
+    "shopId": 6,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 8,
+    "shopId": 7,
+    "brandId": 4,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 9,
+    "shopId": 5,
+    "brandId": 3,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 10,
+    "shopId": 5,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 11,
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 12,
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 13,
+    "shopId": 3,
+    "brandId": 4,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 14,
+    "shopId": 1,
+    "brandId": 3,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 15,
+    "shopId": 4,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 16,
+    "shopId": 5,
+    "brandId": 1,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 17,
+    "shopId": 6,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 18,
+    "shopId": 7,
+    "brandId": 4,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 19,
+    "shopId": 5,
+    "brandId": 3,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 20,
+    "shopId": 5,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 21,
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 22,
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 23,
+    "shopId": 3,
+    "brandId": 4,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  },
+  {
+    "id": 24,
+    "shopId": 1,
+    "brandId": 3,
+    "name": "Nike Air Max",
+    "description": "Best shoes ever",
+    "price": "$2,000"
+  }
+]

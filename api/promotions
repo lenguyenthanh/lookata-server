@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "shopId": 1,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 2,
+    "shopId": 3,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 3,
+    "shopId": 2,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 4,
+    "shopId": 2,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 5,
+    "shopId": 2,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 6,
+    "shopId": 3,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 7,
+    "shopId": 1,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 8,
+    "shopId": 4,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 9,
+    "shopId": 5,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 10,
+    "shopId": 1,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 11,
+    "shopId": 2,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  },
+  {
+    "id": 12,
+    "shopId": 2,
+    "image": "https://blog.resellerclub.com/wp-content/uploads/2016/09/1.png",
+    "title": "10% off ",
+    "description": "Lorem ipsum",
+    "expiredDate": "2017-05-27T13:06:38Z",
+    "percentOff": 10
+  }
+]
