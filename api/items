@@ -116,7 +116,7 @@
     "shopId": 4,
     "brandId": 2,
     "name": "Nike Air Max",
-    "description": "Best shoes ever",
+   "description": "Best shoes ever",
     "price": 2000
   },
   {
@@ -165,7 +165,7 @@
     "brandId": 1,
     "name": "Nike Air Max",
     "description": "Best shoes ever",
-    "price": 2,000
+    "price": 2000
   },
   {
     "id": 22,
