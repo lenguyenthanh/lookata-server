@@ -1,29 +1,17 @@
 [
   {
-    "suggestions": "Nike"
+    "suggestion": "Nike"
   },
   {
-    "suggestions": "Jean"
+    "suggestion": "Jean"
   },
   {
-    "suggestions": "Shoes"
+    "suggestion": "Shoes"
   },
   {
-    "suggestions": "Shirt"
+    "suggestion": "Shirt"
   },
   {
-    "suggestions": "Skirt"
-  },
-  {
-    "suggestions": "Watch"
-  },
-  {
-    "suggestions": "Sport Watch"
-  },
-  {
-    "suggestions": "Sport Shoes"
-  },
-  {
-    "suggestions": "Sport"
+    "suggestion": "Skirt"
   }
 ]
