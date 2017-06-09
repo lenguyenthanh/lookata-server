@@ -11,7 +11,7 @@
   {
     "id": 2,
     "shopId": 3,
-    "image": "http://khmerroyalhotel.com/wp-content/uploads/2014/08/promotion_banner.png",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/be/c6/8c/bec68c16e6c5beb74055aabb7a48340b.jpg",
     "title": "10% off ",
     "description": "Lorem ipsum",
     "expiredDate": "2017-05-28T13:38:44+07:01",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "shopId": 2,
-    "image": "http://www.dragonflymandarin.com/wp-content/uploads/2011/09/promotions.png",
+    "image": "https://amigo-productions.com/wp-content/uploads/2014/02/iPhone-5-Fun-Promotion-After-Effects-Template-Amigo-Productions-11-960x528.png",
     "title": "10% off ",
     "description": "Lorem ipsum",
     "expiredDate": "2017-05-28T13:38:44+07:02",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "shopId": 2,
-    "image": "https://static1.squarespace.com/static/509982fae4b0f629c2b0bfa6/t/58c1e3b529687f4f8458ecc8/1487786182759/promotions.png?format=1500w",
+    "image": "https://www.pcma.org/wp-content/uploads/2017/05/key-promotion-wp_thumbnail.png",
     "title": "10% off ",
     "description": "Lorem ipsum",
     "expiredDate": "2017-05-28T13:38:44+07:04",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "shopId": 5,
-    "image": "http://www.dragonflymandarin.com/wp-content/uploads/2011/09/promotions.png",
+    "image": "http://www.currumbinrsl.com.au/wp-content/uploads/gue_crsl_cache/2656b688d92922669376b72815723c2a.1435553268.1460.710.1.1.gaming_promotion.png",
     "title": "10% off ",
     "description": "Lorem ipsum",
     "expiredDate": "2017-05-28T13:38:44+07:08",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "shopId": 2,
-    "image": "http://khmerroyalhotel.com/wp-content/uploads/2014/08/promotion_banner.png",
+    "image": "http://vignette2.wikia.nocookie.net/kpop/images/6/6c/ROMEO_Without_U_group_promo_photo.png/revision/latest?cb=20170308035342",
     "title": "10% off ",
     "description": "Lorem ipsum",
     "expiredDate": "2017-05-28T13:38:44+07:10",
