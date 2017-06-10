@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Fashion",
+    "description": "Fashion",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/hat.png"
+  },
+  {
+    "id": 2,
+    "name": "Food",
+    "description": "Food",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/ham.png"
+  },
+  {
+    "id": 3,
+    "name": "Activities",
+    "description": "Activities",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/weight.png"
+  },
+  {
+    "id": 4,
+    "name": "Services",
+    "description": "Services",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/sewing_machine.png"
+  },
+  {
+    "id": 5,
+    "name": "Other",
+    "description": "Other",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/others.png"
+  }
+]

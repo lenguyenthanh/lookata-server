@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": 2,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": 3,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": 4,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": 5,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": 6,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": 7,
+    "name": "Nike",
+    "slogan": "Just Do It",
+    "description": "Just Do It",
+    "website": "http://nike.com",
+    "image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+  }
+]

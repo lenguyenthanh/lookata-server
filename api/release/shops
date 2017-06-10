@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "mallId": "1",
+    "categories": [1,2],
+      "brands": [1,2],
+      "name": "Nike Store",
+      "description": "Nike shop",
+      "address": "L2, A45",
+      "website": "lenguyenthanh.com",
+      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": "2",
+    "mallId": "1",
+    "categories": [1,2],
+      "brands": [1,2],
+      "name": "Nike Store",
+      "description": "Nike shop",
+      "address": "L2, A45",
+      "website": "lenguyenthanh.com",
+      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": "3",
+    "mallId": "1",
+    "categories": [1,2],
+      "brands": [1,2],
+      "name": "Nike Store",
+      "description": "Nike shop",
+      "address": "L2, A45",
+      "website": "lenguyenthanh.com",
+      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": "4",
+    "mallId": "1",
+    "categories": [1,2],
+      "brands": [1,2],
+      "name": "Nike Store",
+      "description": "Nike shop",
+      "address": "L2, A45",
+      "website": "lenguyenthanh.com",
+      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+  },
+  {
+    "id": "5",
+    "mallId": "1",
+    "categories": [1,2],
+      "brands": [1,2],
+      "name": "Nike Store",
+      "description": "Nike shop",
+      "address": "L2, A45",
+      "website": "lenguyenthanh.com",
+      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+  }
+]
