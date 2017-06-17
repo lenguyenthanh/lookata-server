@@ -2,56 +2,110 @@
   {
     "id": "1",
     "mallId": "1",
-    "categories": [1,2],
-      "brands": [1,2],
-      "name": "Nike Store",
-      "description": "Nike shop",
-      "address": "L2, A45",
-      "website": "lenguyenthanh.com",
-      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+    "categories": [
+      1
+    ],
+    "brands": [
+      1
+    ],
+    "name": "4Fingers Crispy Chicken",
+    "shortDescription": "",
+    "address": "CC 14",
+    "website": "http:\/\/www.4fingers.com\/",
+    "image": "http:\/\/www.midvalley.com.my\/img\/tenant\/4Fingers_D230Nov2015160541.jpg",
+    "description": "Opening hours: 10:00am - 10:00pm\n\n Contact: +603-2201 1227\n\n\n  About 4Fingers Crispy Chicken\n At 4FINGERS, we’re nuts about chicken. So when we discovered the best Asian crispy chicken in New York City’s grungy subway scene, we knew we had to share it. And so began the revolution of crispy chicken. \n\n   Spicy, crispy, unique and downright addictive – it’s chicken that’s so bad, it’s good. And there are thousands who would agree with us."
   },
   {
     "id": "2",
     "mallId": "1",
-    "categories": [1,2],
-      "brands": [1,2],
-      "name": "Nike Store",
-      "description": "Nike shop",
-      "address": "L2, A45",
-      "website": "lenguyenthanh.com",
-      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+    "categories": [
+      6
+    ],
+    "brands": [
+      2
+    ],
+    "name": "A-Saloon",
+    "shortDescription": "",
+    "address": "L3 23",
+    "website": "http:\/\/www.a-saloon.com",
+    "image": "http:\/\/femalemag.com.my\/wp-content\/uploads\/2016\/01\/DSC_4532.jpg",
+    "description": "Opening hours: 10:00am - 10:00pm\n [+603] 2276 0688\n\n  About A-Saloon\n Since opening its doors at Sunway Pyramid Shopping Mall in July 2009, A-Saloon has been redefining a new vision and concept in hair beauty and hair care.\n\n  Free Internet Station Access\n Private Area for Muslimah\n"
   },
   {
     "id": "3",
     "mallId": "1",
-    "categories": [1,2],
-      "brands": [1,2],
-      "name": "Nike Store",
-      "description": "Nike shop",
-      "address": "L2, A45",
-      "website": "lenguyenthanh.com",
-      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+    "categories": [
+      8
+    ],
+    "brands": [
+      3
+    ],
+    "name": "Adidas",
+    "shortDescription": "",
+    "address": "L2 04",
+    "website": "http:\/\/www.adidas.com.my",
+    "image": "http:\/\/images.locatedapp.com\/business-photo\/105147\/105147.jpeg",
+    "description": "Opening hours: 10:00am - 10:00pm\n [+603] 22764141\n\n  In 2012, the brand with the 3-Stripes shows its unwavering love for the game. From the World Cup pitches to the Olympic bobsleigh ice tracks, from the swagger of the sidewalk to the strut of the catwalk, from the NBA All Stars to the concert stages, Adidas supports and encourages the love of the game no matter the game."
   },
   {
     "id": "4",
     "mallId": "1",
-    "categories": [1,2],
-      "brands": [1,2],
-      "name": "Nike Store",
-      "description": "Nike shop",
-      "address": "L2, A45",
-      "website": "lenguyenthanh.com",
-      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+    "categories": [
+      8
+    ],
+    "brands": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "name": "Al-Ikhsan",
+    "shortDescription": "",
+    "address": " L3 15\/16\/17",
+    "website": "http:\/\/www.al-ikhsan.com\/",
+    "image": "https:\/\/d1307f5mo71yg9.cloudfront.net\/images\/media\/web\/business\/rsz_img-1483512980_586c9c94eabcb.jpg",
+    "description": " Opening hours: 10:00am - 10:00pm\n  +6019-776 6795\n\n  About Al-Ikhsan\n Al-Ikhsan Sports was established in 1993 with a single 150 square feet store in Holiday Plaza, Johor Bahru. From sole proprietorship enterprise, the company has evolved to Private Limited Company named as Al-Ikhsan Sports Sdn Bhd.\n\n    Since inception, the business has grown up to 134 doors all over Peninsular Malaysia. In 2011, the company has been awarded with ASEAN Business Outstanding Award 2011 & Industry Class Sector Sports Retail by ASEAN Retail & Franchise Federation. The Sports Good Intelligence Report ranked Al-Ikhsan as the 77th largest Sporting Goods Retailer In The Galaxy.\n\n    Steering aggressively to be the LARGEST Sports Retailer in South East Asia, Al-Ikhsan is differentiated from others by its exclusive and quality product range with competitive price, attained directly from the Suppliers (brand). The service charter to our customers is & 100% original guaranteed - we pay double of the purchase price if our goods are imitations."
   },
   {
     "id": "5",
     "mallId": "1",
-    "categories": [1,2],
-      "brands": [1,2],
-      "name": "Nike Store",
-      "description": "Nike shop",
-      "address": "L2, A45",
-      "website": "lenguyenthanh.com",
-      "image": "http:\/\/content.nike.com\/content\/dam\/one-nike\/globalAssets\/social_media_images\/nike_swoosh_logo_black.png"
+    "categories": [
+      8
+    ],
+    "brands": [
+      12
+    ],
+    "name": "Reebok",
+    "shortDescription": "",
+    "address": "L2 02",
+    "website": "http:\/\/www.reebok.com",
+    "image": "https:\/\/d1307f5mo71yg9.cloudfront.net\/images\/media\/web\/business\/rsz_img-1433906718_5577ae1e532da.jpg",
+    "description": "Opening hours: 10:00am - 10:00pm\n\n  About Reebok\n Reebok is an American-inspired, global brand that creates and markets sports and lifestyle products built upon a strong heritage and authenticity in sports, fitness and women's categories."
+  },
+  {
+    "id": "6",
+    "mallId": "1",
+    "categories": [
+      9
+    ],
+    "brands": [
+      17
+    ],
+    "name": "Akemi Uchi",
+    "shortDescription": "",
+    "address": "",
+    "website": "http:\/\/www.akemihome.com",
+    "image": "https:\/\/d1307f5mo71yg9.cloudfront.net\/images\/media\/web\/business\/s_banner_6977_1405062877.jpg",
+    "description": " Opening hours: 10:00am - 10:00pm\n\n   [+603] 2276 0602\n\n  About Akemi Uchi\n A one-stop home concept store. Established in 2007, Akemi Uchi is a one-stop home concept store that offers an extensive range in brands, styles, designs, quality and price for home textile products to brighten any home. Akemi Uchi has transformed to the new generation as a unique retail experience, bringing better concept and style."
   }
 ]
