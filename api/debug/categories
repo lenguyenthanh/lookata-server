@@ -1,30 +1,60 @@
 [
   {
     "id": 1,
-    "name": "Fashion",
-    "description": "Fashion",
-    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/hat.png"
-  },
-  {
-    "id": 2,
-    "name": "Food",
-    "description": "Food",
+    "name": "Restaurant/Cafe",
+    "description": "Food, Desert & Beverage",
     "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/ham.png"
   },
   {
+    "id": 2,
+    "name": "Fashion",
+    "description": "Male/ Female clothes, Lingery, Shoes, Bag, Jewelry, Accessory",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/hat.png"
+  },
+  {
     "id": 3,
-    "name": "Activities",
-    "description": "Activities",
-    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/weight.png"
+    "name": "Health & Beauty",
+    "description": "Supliments, Cosmetic, Perfume, Pharmacy",
+    "icon": ""
   },
   {
     "id": 4,
-    "name": "Services",
-    "description": "Services",
-    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/sewing_machine.png"
+    "name": "Books & Stationary",
+    "description": "Book, Gift, Handcraft",
+    "icon": ""
   },
   {
     "id": 5,
+    "name": "Activities",
+    "description": "Gym, Bowling, Escape room",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/weight.png"
+  },
+  {
+    "id": 6,
+    "name": "Services",
+    "description": "Printing, Hair Saloon, Massage, Clinic, Clothing alterations",
+    "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/sewing_machine.png"
+  },
+  {
+    "id": 7,
+    "name": "Computer & Electrical Appliances",
+    "description": "Home & Electrical Appliances",
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "name": "Sport",
+    "description": "sport equipments",
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "name": "Homeware & Furnishing",
+    "description": "",
+    "icon": ""
+  },
+  {
+    "id": 10,
     "name": "Other",
     "description": "Other",
     "icon": "https://raw.githubusercontent.com/lenguyenthanh/lookata-server/master/image/category/others.png"
