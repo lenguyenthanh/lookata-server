@@ -3,192 +3,378 @@
     "id": 1,
     "shopId": 1,
     "brandId": 1,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Chicken Drumsticks",
+    "tags": []
   },
   {
     "id": 2,
-    "shopId": 2,
-    "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "4Fingers Signature",
+    "tags": []
   },
   {
     "id": 3,
-    "shopId": 3,
-    "brandId": 4,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Chicken Rice Box",
+    "tags": []
   },
   {
     "id": 4,
     "shopId": 1,
-    "brandId": 3,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "brandId": 1,
+    "name": "Drumsticks rice box",
+    "tags": []
   },
   {
     "id": 5,
-    "shopId": 4,
-    "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Seafood Rice Box",
+    "tags": []
   },
   {
     "id": 6,
-    "shopId": 5,
+    "shopId": 1,
     "brandId": 1,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Tofu Rice Box",
+    "tags": []
   },
   {
     "id": 7,
-    "shopId": 6,
-    "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Chicken Chop",
+    "tags": []
   },
   {
     "id": 8,
-    "shopId": 7,
-    "brandId": 4,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Chicken Katsu Sandwich",
+    "tags": []
   },
   {
     "id": 9,
-    "shopId": 5,
-    "brandId": 3,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Battered Shrimps",
+    "tags": []
   },
   {
     "id": 10,
-    "shopId": 5,
-    "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 1,
+    "brandId": 1,
+    "name": "Chicken Katsu Salad",
+    "tags": []
   },
   {
     "id": 11,
-    "shopId": 1,
-    "brandId": 1,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Wash & Cut",
+    "tags": ["muslimah", "haircut"]
   },
   {
     "id": 12,
     "shopId": 2,
     "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Wash & Blow",
+    "tags": []
   },
   {
     "id": 13,
-    "shopId": 3,
-    "brandId": 4,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Shiseido Professional Hair Treatment",
+    "tags": []
   },
   {
     "id": 14,
-    "shopId": 1,
-    "brandId": 3,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Scalp Treatment",
+    "tags": []
   },
   {
     "id": 15,
-    "shopId": 4,
+    "shopId": 2,
     "brandId": 2,
-    "name": "Nike Air Max",
-   "description": "Best shoes ever",
-    "price": 2000
+    "name": "Milbon Treatment",
+    "tags": []
   },
   {
     "id": 16,
-    "shopId": 5,
-    "brandId": 1,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Hair Care Treatment",
+    "tags": []
   },
   {
     "id": 17,
-    "shopId": 6,
+    "shopId": 2,
     "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Keratin Treatment",
+    "tags": []
   },
   {
     "id": 18,
-    "shopId": 7,
-    "brandId": 4,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Shiseido Professional Service",
+    "tags": []
   },
   {
     "id": 19,
-    "shopId": 5,
-    "brandId": 3,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Colour + Wash & Cut",
+    "tags": []
   },
   {
     "id": 20,
-    "shopId": 5,
+    "shopId": 2,
     "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Perm + Wash & Cut",
+    "tags": []
   },
   {
     "id": 21,
-    "shopId": 1,
-    "brandId": 1,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Digital Perm + Wash & Cut",
+    "tags": []
   },
   {
     "id": 22,
     "shopId": 2,
     "brandId": 2,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Rebonding + Wash & Cut",
+    "tags": []
   },
   {
     "id": 23,
-    "shopId": 3,
-    "brandId": 4,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Color Half Head",
+    "tags": []
   },
   {
     "id": 24,
-    "shopId": 1,
+    "shopId": 2,
+    "brandId": 2,
+    "name": "Color Full Head",
+    "tags": []
+  },
+  {
+    "id": 25,
+    "shopId": 3,
     "brandId": 3,
-    "name": "Nike Air Max",
-    "description": "Best shoes ever",
-    "price": 2000
+    "name": "Ultra Boost Shoes",
+    "tags": ["running"]
+  },
+  {
+    "id": 26,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "ACE 17.3 Firm Ground Boots",
+    "tags": ["football"]
+  },
+  {
+    "id": 27,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Supernova Tee",
+    "tags": ["running"]
+  },
+  {
+    "id": 28,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Supernova Storm Jacket",
+    "tags": ["running"]
+  },
+  {
+    "id": 29,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Supernova Tokyo Shorts",
+    "tags": ["running"]
+  },
+  {
+    "id": 30,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Climacool",
+    "tags": ["originals", "shoes"]
+  },
+  {
+    "id": 31,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Manchester United 3-Stripes Cap",
+    "tags": ["unisex", "fooball"]
+  },
+  {
+    "id": 32,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Warp-Knit Tights",
+    "tags": ["training"]
+  },
+  {
+    "id": 33,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Halter Bra",
+    "tags": ["women", "training"]
+  },
+  {
+    "id": 34,
+    "shopId": 3,
+    "brandId": 3,
+    "name": "Adidas Z.N.E Transition Skort",
+    "tags": ["athletics", "shoes"]
+  },
+  {
+    "id": 35,
+    "shopId": 4,
+    "brandId": 5,
+    "name": "JR B Sunray Adjust 4",
+    "tags": ["training"]
+  },
+  {
+    "id": 36,
+    "shopId": 4,
+    "brandId": 5,
+    "name": "Kid G Flex Experience 4",
+    "tags": ["kid shoes"]
+  },
+  {
+    "id": 37,
+    "shopId": 4,
+    "brandId": 3,
+    "name": "Cloudfoam Race",
+    "tags": ["women shoes"]
+  },
+  {
+    "id": 38,
+    "shopId": 4,
+    "brandId": 3,
+    "name": "Cloudfoam Swift",
+    "tags": ["men shoes"]
+  },
+  {
+    "id": 39,
+    "shopId": 4,
+    "brandId": 12,
+    "name": "Tight Pant ",
+    "tags": []
+  },
+  {
+    "id": 40,
+    "shopId": 4,
+    "brandId": 12,
+    "name": "Legend & Tradition Tee",
+    "tags": []
+  },
+  {
+    "id": 41,
+    "shopId": 4,
+    "brandId": 15,
+    "name": "Thrillseeker Fluro",
+    "tags": ["rugby ball"]
+  },
+  {
+    "id": 42,
+    "shopId": 4,
+    "brandId": 15,
+    "name": "Medium Training",
+    "tags": ["bagpack"]
+  },
+  {
+    "id": 43,
+    "shopId": 4,
+    "brandId": 14,
+    "name": "New Balance",
+    "tags": ["lifestyle shoes"]
+  },
+  {
+    "id": 44,
+    "shopId": 4,
+    "brandId": 14,
+    "name": "Replica LFC",
+    "tags": ["tee"]
+  },
+  {
+    "id": 45,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Starcrest T Sweat Pant",
+    "tags": ["women", "knit pants"]
+  },
+  {
+    "id": 46,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "CL LTHR Seasonal II",
+    "tags": ["casual shoes"]
+  },
+  {
+    "id": 47,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "London TC",
+    "tags": ["casual shoes"]
+  },
+  {
+    "id": 48,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Sublite Authentic 4.0",
+    "tags": ["running shoes"]
+  },
+  {
+    "id": 49,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Y Tie Tee",
+    "tags": ["short sleeve t-shirt"]
+  },
+  {
+    "id": 50,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Balance Tank",
+    "tags": ["tank"]
+  },
+  {
+    "id": 51,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Graphic Short",
+    "tags": ["shorts"]
+  },
+  {
+    "id": 52,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "QC Tight",
+    "tags": ["women tights"]
+  },
+  {
+    "id": 53,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Hayasu",
+    "tags": ["training shoes"]
+  },
+  {
+    "id": 54,
+    "shopId": 5,
+    "brandId": 5,
+    "name": "Hero Racer Brand Bra P",
+    "tags": ["sports lingerie"]
   }
 ]
